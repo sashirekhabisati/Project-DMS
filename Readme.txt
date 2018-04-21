@@ -1,1 +1,1 @@
-project DMS
+project DMS Test
