@@ -1,6 +1,5 @@
-<<<<<<< HEAD
+
 hi hello how are you
-=======
+
 hi 
 hello 
->>>>>>> 69fb4baf3fc00f01dc39ba5c2a619558dabd7ed8
